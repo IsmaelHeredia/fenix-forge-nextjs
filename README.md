@@ -12,7 +12,13 @@ Fenix Forge es una aplicación web de uso local diseñada para unir archivos MP3
 
 ## Capturas de pantalla
 
-![screenshot]()
+![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK3rEnCJOcgIejS44qHzkHixi-lvkzVn9X5dDxWmi2GMY-aP5t9f_1I0nrFvSjMEXnobr0_UoICH4CF-v9mKIQsf2-lmHP4UtxXcrnCRzQGWZhzRY0bqso1xN3Qaz82rQfzYa9IKk3yKRohaRQc2Bl1FySTYVrSWagC5M7jd3M8b24Kr5uQ0zfL0C66Aw/s1849/1.png)
+
+![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5gTN-HWA0Bn50wEXfEjCKjm6E7Y2DxAub8Qx-2xB4wjY6nFyrG-c7aIn_gaJmrAfcbTwpCD5yLINNGCwD3Me5ju3om157U34W4aSLDKPjSThyphenhypheneNAt4nNwZIbw6uupRg24FOn_M5_x1V7ho6lI9Fdi0zvmA0WQCD1JTB-4UKKkpCfRlhoDhqTIkobfkww/s1848/2.png)
+
+![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QXJlWYkR789exOGjxXqwVfA2MIACqayl0W1Ay2lzJWFZ2H4axUNigP79nxgrJTG3uv88Gleixm34NfShlcoOVF8jKqIJYcu-asnTbIVrE3MmjB3yWHfsWHA_GTXlRMk6M1kTNyGD2CtP6WGECx45-2VeHdbkBxdylOBrunThJXHXpX9ISMW6E9WkFAk/s1849/3.png)
+
+![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIjt4UlCCTZwTkZcO3ctgVoqvz_r4bmM7MpN59E_OTqymRqu1BDq2YEoWwfOeIVDswDsV9RRYGCoTouIhMbyjMjo7avG_pwAD74DlnjmijQ7HxFBhQ4wUdpqu6hm9PajZ9LLS0Y7DkIIssfZHkjpoxQsXR6FRXXSp1iqi51ouAn0952hcqkLs-o4eP8e0/s1847/4.png)
 
 ## Desarrollo local
 
